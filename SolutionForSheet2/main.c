@@ -8,6 +8,7 @@ void menu(){
 	printf("(d) what is the stack size.\n");
 	printf("(e) return the stack top\n");
 	printf("(f) exit.\n");
+	printf("choice an option from [a:f]\n");
 }
 void read(Stack *st){
 	char c;
